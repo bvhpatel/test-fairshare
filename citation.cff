@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with Fair Share.
+# Visit https://fairdataihub.org/sodaforcovid to learn more!
+
+abstract: test repo for fairshare
+authors:
+- affiliation: California Medical Innovations Institute
+  email: bpatel@calmi2.org
+  family-names: Patel
+  given-names: Bhavesh
+date-released: '2022-02-15'
+keywords:
+- test
+- keyword
+license: MIT
+message: If you use this software, please cite it as below.
+repository-code: https://github.com/bvhpatel/test-fairshare
+title: GitHub dataset test
+type: software
